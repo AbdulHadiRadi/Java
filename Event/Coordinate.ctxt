@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=event\ x\ y
+comment0.target=Coordinate(Event,\ int,\ int)
+comment1.params=
+comment1.target=Event\ getEvent()
+comment2.params=
+comment2.target=int\ getX_axis()
+comment3.params=
+comment3.target=int\ getY_axis()
+numComments=4
