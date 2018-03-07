@@ -1,5 +1,7 @@
 # Java
-This is a simple Java Project which was built based on some requirements which are given below:
+This is a simple Java Project for finding the closest events from a given coordinate by using an algorithm.
+
+Requirements:
 
 Scenario
  Your program should randomly generate seed data.
